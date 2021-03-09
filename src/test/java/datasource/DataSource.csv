@@ -1,0 +1,6 @@
+Customer,Email,Password
+CustomerCorrectEmailCorrectPassword,correct@gmail.com,correctpass123
+CustomerCorrectEmailWrongPassword,correct@gmail.com,wrongPass123
+CustomerWrongEmailCorrectPassword,wrongmail@gmail.com,abc@123
+CustomerForgotPasswordCorrectEmail,abc@gmail.com,abc@123
+CustomerFacebook,abc@gmail.com,sifre@123
